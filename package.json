@@ -1,0 +1,16 @@
+{
+  "name": "estudio_js",
+  "version": "0.0.1",
+  "description": "JavaScrip Estudio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Juan",
+  "license": "MIT",
+  "type": "module"
+}
