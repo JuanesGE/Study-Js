@@ -7,4 +7,4 @@ export function createUsuario(name){
 
 const user = createUsuario('Felipe');
 const user2 = createUsuario('David');
-console.log(user, user2);
+//console.log(user, user2);

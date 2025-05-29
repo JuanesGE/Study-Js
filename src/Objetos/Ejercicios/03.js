@@ -13,4 +13,4 @@ const resultado = similares(
     {id:1, name: 'Juan'},
 );
 
-console.log(resultado);
+//console.log(resultado);
