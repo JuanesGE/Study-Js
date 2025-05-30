@@ -7,6 +7,6 @@ const mostrar = chaolin('juanes loco');
 //console.log(mostrar);
 
 
-//Slo un renglon
+//Solo un renglon
 const chaolin2 = () => 'Chao chicos';
 //console.log(chaolin2());

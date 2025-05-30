@@ -6,17 +6,17 @@ export const usuarios = [
 
 //const resulatdo = usuarios.indexOf({id: 2, name: 'garcia'});
 
-// .fin devuelve el PRIMER ELEMENTO que encuentre que cumpla con el return
+// .find devuelve el PRIMER ELEMENTO que encuentre que cumpla con el return
 /* const resultado = usuarios.find(function(usuario) {
     return usuario.id === 1;
 }); */
 
 //Fat arrow function
-/* const resultado = usuarios.find(usuario =>
-    usuario.name === 'garcia');
-console.log(resultado); */
+// const resultado = usuarios.find(usuario =>
+//     usuario.name === 'espinosa');
+// console.log(resultado);
 
 //Devuelve el id donde se encuentra el elemento
 const resultado = usuarios.findIndex(usuario =>
-    usuario.name === 'garcia');
+    usuario.name === 'juanes');
 //console.log(resultado);
