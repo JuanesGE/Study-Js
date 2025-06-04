@@ -44,7 +44,7 @@ import { arreglo1 } from "./src/Arrays/09-join.js";
 
 //import { Usuarios } from "./src/Arrays/11-EverySome.js";
 
-//import { Usuarios } from "./src/Arrays/12-filter.js";
+import { Usuarios } from "./src/Arrays/12-filter.js";
 
 //import { Usuarios } from "./src/Arrays/13-ArrMap.js";
 
@@ -52,4 +52,20 @@ import { arreglo1 } from "./src/Arrays/09-join.js";
 
 //import { plano } from "./src/Arrays/14-reduce.js";
 
-import { Usuarios } from "./src/Arrays/14-reduce.js";
+//import { Usuarios } from "./src/Arrays/14-reduce.js";
+
+
+
+import { paraAbsoluto } from "./src/Arrays/Ejercicios/01.js";
+
+import { dividePorTipo } from "./src/Arrays/Ejercicios/02.js";
+
+//import { usuarios } from "./src/Arrays/Ejercicios/03.js";
+
+//import { usuarios } from "./src/Arrays/Ejercicios/04.js";
+
+//import { usuarios } from "./src/Arrays/Ejercicios/05.js";
+
+import { miArray } from "./src/Arrays/Ejercicios/06.js";
+
+import { usuarios } from "./src/Arrays/Ejercicios/07.js";
