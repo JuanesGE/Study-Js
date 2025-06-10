@@ -69,3 +69,9 @@ import { dividePorTipo } from "./src/Arrays/Ejercicios/02.js";
 import { miArray } from "./src/Arrays/Ejercicios/06.js";
 
 import { usuarios } from "./src/Arrays/Ejercicios/07.js";
+
+//import { saludar } from "./src/Funciones/02-let-var-function.js";
+
+//import { alcance } from "./src/Funciones/03-alcance.js";
+
+import { suma } from "./src/Funciones/04-arguments.js";

@@ -17,4 +17,4 @@ function groupBy(arr, prop){
 }
 
 const grouped = groupBy(usuarios, 'plan');
-console.log({grouped});
+//console.log({grouped});
